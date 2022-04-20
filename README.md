@@ -1,6 +1,5 @@
 # 👟 ShoeBrand Landing Page
 
-- First completed project!
 - 1 landing page.
 - Compatible with all desktop and mobile devices.
 
